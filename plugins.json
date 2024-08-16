@@ -19,28 +19,6 @@
         "name": "FzMovies"
     },
 
-    {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/aymanbest/Arabico",
-    "fileSize": 16194,
-    "status": 0,
-    "language": "ar",
-    "authors": [
-        "kingslayer_007"
-    ],
-    "tvTypes": [
-        "TvSeries",
-        "Movie",
-        "Anime",
-        "AsianDrama"
-    ],
-    "version": 16,
-    "internalName": "FaselHDProvider",
-    "url": "https://github.com/aymanbest/Arabico/raw/main/build/FaselHDProvider.cs3",
-    "name": "FaselHDProvider"
-},
-
 {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://fajer.show&sz=%size%",
     "apiVersion": 1,
@@ -82,25 +60,6 @@
     },
   
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=arlionztv.click&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/aymanbest/Arabico",
-        "fileSize": 13531,
-        "status": 0,
-        "language": "ar",
-        "authors": [
-            "KingSlayer_007"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "ArabLionzProvider",
-        "url": "https://github.com/aymanbest/Arabico/raw/main/build/ArabLionz.cs3",
-        "name": "ArabLionzProvider"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=anime4up.tv&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/aymanbest/Arabico",
@@ -121,45 +80,7 @@
         "url": "https://github.com/aymanbest/Arabico/raw/main/build/Anime4upPack.cs3",
         "name": "Anime4upPack"
     },
-    {
-        "iconUrl": "https://i.ibb.co/0VTHBBL/Design-sans-titre.jpg",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/aymanbest/Arabico",
-        "fileSize": 15379,
-        "status": 0,
-        "language": "ar",
-        "authors": [
-            "KingSlayer_007"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 4,
-        "internalName": "TvLive",
-        "description": "Sport Live Stream Filtered NSFW 'SO HALAL MODE'",
-        "url": "https://github.com/aymanbest/Arabico/raw/main/build/Dlhd.cs3",
-        "name": "TvLive"
-    },
-    
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=3isk.biz&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/aymanbest/Arabico",
-        "fileSize": 13531,
-        "status": 0,
-        "language": "ar",
-        "authors": [
-            "KingSlayer_007"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "3isk",
-        "url": "https://github.com/aymanbest/Arabico/raw/main/build/3isk.cs3",
-        "name": "3isk"
-    },
+   
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=asia2tv.com&sz=%size%",
         "apiVersion": 1,
@@ -235,47 +156,6 @@
         "name": "Syrialive"
     },
    
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.braflix.app&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/aymanbest/Arabico",
-        "fileSize": 16939,
-        "status": 0,
-        "language": "ar",
-        "authors": [
-            "kingslayer_007"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 15,
-        "internalName": "Braflix",
-        "description": "Disabled because some genius decided to tattle to the site owner, and they slapped Cloudflare on it. Nice going, guys.",
-        "url": "https://github.com/aymanbest/Arabico/raw/main/build/braflix.cs3",
-        "name": "Braflix"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://cinema.365ar.show&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/aymanbest/Arabico",
-        "fileSize": 16939,
-        "status": 0,
-        "language": "ar",
-        "authors": [
-            "kingslayer_007"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "Anime"
-        ],
-        "version": 5,
-        "internalName": "365 SHOW",
-        "url": "https://github.com/aymanbest/Arabico/raw/main/build/365.cs3",
-        "name": "365 SHOW"
-    },
-    
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://yaps.therarbg.to&sz=%size%",
         "apiVersion": 1,
@@ -574,27 +454,7 @@
         "url": "https://raw.githubusercontent.com/CakesTwix/cloudstream-extensions-uk/builds/UASerialsProProvider.cs3",
         "name": "UASerialsProProvider"
     },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=uaserials.vip&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/CakesTwix/cloudstream-extensions-uk",
-        "fileSize": 15115,
-        "status": 0,
-        "language": "uk",
-        "authors": [
-            "CakesTwix"
-        ],
-        "tvTypes": [
-            "Cartoon",
-            "TvSeries",
-            "Anime"
-        ],
-        "version": 1,
-        "internalName": "UAserialsVipProvider",
-        "description": "\u041d\u0430\u0448\u0430 \u043c\u0435\u0442\u0430 \u2014 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u0438\u0437\u0430\u0446\u0456\u044f \u043d\u0430\u0448\u043e\u0457 \u0440\u0456\u0434\u043d\u043e\u0457 \u043c\u043e\u0432\u0438, \u0448\u043b\u044f\u0445\u043e\u043c \u0437\u0431\u043e\u0440\u0443 \u0432 \u043e\u0434\u043d\u043e\u043c\u0443 \u043c\u0456\u0441\u0446\u0456 \u0432\u0435\u043b\u0438\u0447\u0435\u0437\u043d\u043e\u0457 \u043a\u043e\u043b\u0435\u043a\u0446\u0456\u0457 \u043d\u0430\u0439\u043a\u0440\u0430\u0449\u0438\u0445 \u0456 \u043d\u0430\u0439\u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u0456\u0448\u0438\u0445 \u0444\u0456\u043b\u044c\u043c\u0456\u0432, \u0441\u0435\u0440\u0456\u0430\u043b\u0456\u0432, \u043c\u0443\u043b\u044c\u0442\u0444\u0456\u043b\u044c\u043c\u0456\u0432 \u0442\u0430 \u043c\u0443\u043b\u044c\u0442\u0441\u0435\u0440\u0456\u0430\u043b\u0456\u0432 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u044e \u043c\u043e\u0432\u043e\u044e, \u044f\u043a\u0456 \u0432\u0438 \u043c\u043e\u0436\u0435\u0442\u0435 \u0434\u0438\u0432\u0438\u0442\u0438\u0441\u044f \u043e\u043d\u043b\u0430\u0439\u043d \u0432 HD \u044f\u043a\u043e\u0441\u0442\u0456 \u0431\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u043e. \u041f\u0440\u0438\u0454\u043c\u043d\u043e\u0433\u043e \u043f\u0435\u0440\u0435\u0433\u043b\u044f\u0434\u0443!",
-        "url": "https://raw.githubusercontent.com/CakesTwix/cloudstream-extensions-uk/builds/UAserialsVipProvider.cs3",
-        "name": "UAserialsVipProvider"
-    },
+ 
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=ufdub.com&sz=%size%",
         "apiVersion": 1,
@@ -1441,26 +1301,6 @@
         "name": "AniyomiProvider"
     },
 
-     {
-        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Korduene_Logo.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/WellCodeIsDelicious/Cloudstream-IPTV-Extensions",
-        "fileSize": 14836,
-        "status": 1,
-        "language": "universal",
-        "authors": [
-            "DistantCode"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": -1,
-        "internalName": "ExampleProvider",
-        "description": "Lorem ipsum",
-        "url": "https://raw.githubusercontent.com/WellCodeIsDelicious/Cloudstream-IPTV-Extensions/builds/ExampleProvider.cs3",
-        "name": "ExampleProvider"
-    },
-
     {
         "iconUrl": "https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/kronch.png",
         "apiVersion": 1,
@@ -1820,28 +1660,6 @@
     },
 
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=xcine.me&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 17822,
-        "status": 0,
-        "language": "de",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "XcineProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/XcineProvider.cs3",
-        "name": "XcineProvider"
-    },
-
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=animeiat.tv&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/yoyzo/arab",
@@ -1901,27 +1719,6 @@
         "name": "GateAnimeProvider"
     },
 
-    {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/aymanbest/Arabico",
-    "fileSize": 16194,
-    "status": 0,
-    "language": "ar",
-    "authors": [
-        "kingslayer_007"
-    ],
-    "tvTypes": [
-        "TvSeries",
-        "Movie",
-        "Anime",
-        "AsianDrama"
-    ],
-    "version": 16,
-    "internalName": "FaselHDProvider",
-    "url": "https://github.com/aymanbest/Arabico/raw/main/build/FaselHDProvider.cs3",
-    "name": "FaselHDProvider"
-},
 {
     "iconUrl": "https://www.google.com/s2/favicons?domain=wecima.tube&sz=%size%",
     "apiVersion": 1,
@@ -2094,25 +1891,7 @@
         "url": "https://github.com/aymanbest/Arabico/raw/main/build/Cima4u.cs3",
         "name": "Cima4uProvider"
     },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=arlionztv.click&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/aymanbest/Arabico",
-        "fileSize": 13531,
-        "status": 0,
-        "language": "ar",
-        "authors": [
-            "KingSlayer_007"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "ArabLionzProvider",
-        "url": "https://github.com/aymanbest/Arabico/raw/main/build/ArabLionz.cs3",
-        "name": "ArabLionzProvider"
-    },
+
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=anime4up.tv&sz=%size%",
         "apiVersion": 1,
@@ -2134,25 +1913,7 @@
         "url": "https://github.com/aymanbest/Arabico/raw/main/build/Anime4upPack.cs3",
         "name": "Anime4upPack"
     },
-    {
-        "iconUrl": "https://i.ibb.co/0VTHBBL/Design-sans-titre.jpg",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/aymanbest/Arabico",
-        "fileSize": 15379,
-        "status": 0,
-        "language": "ar",
-        "authors": [
-            "KingSlayer_007"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 4,
-        "internalName": "TvLive",
-        "description": "Sport Live Stream Filtered NSFW 'SO HALAL MODE'",
-        "url": "https://github.com/aymanbest/Arabico/raw/main/build/Dlhd.cs3",
-        "name": "TvLive"
-    },
+    
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=tv.egydead.live&sz=%size%",
         "apiVersion": 1,
@@ -2173,25 +1934,7 @@
         "url": "https://github.com/aymanbest/Arabico/raw/main/build/EgyDeadProvider.cs3",
         "name": "EgyDeadProvider"
     },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=3isk.biz&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/aymanbest/Arabico",
-        "fileSize": 13531,
-        "status": 0,
-        "language": "ar",
-        "authors": [
-            "KingSlayer_007"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "3isk",
-        "url": "https://github.com/aymanbest/Arabico/raw/main/build/3isk.cs3",
-        "name": "3isk"
-    },
+  
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=asia2tv.com&sz=%size%",
         "apiVersion": 1,
@@ -2325,46 +2068,7 @@
         "url": "https://github.com/aymanbest/Arabico/raw/main/build/coolcima.cs3",
         "name": "CoolCima"
     },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.braflix.app&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/aymanbest/Arabico",
-        "fileSize": 16939,
-        "status": 0,
-        "language": "ar",
-        "authors": [
-            "kingslayer_007"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 15,
-        "internalName": "Braflix",
-        "description": "Disabled because some genius decided to tattle to the site owner, and they slapped Cloudflare on it. Nice going, guys.",
-        "url": "https://github.com/aymanbest/Arabico/raw/main/build/braflix.cs3",
-        "name": "Braflix"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://cinema.365ar.show&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/aymanbest/Arabico",
-        "fileSize": 16939,
-        "status": 0,
-        "language": "ar",
-        "authors": [
-            "kingslayer_007"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "Anime"
-        ],
-        "version": 5,
-        "internalName": "365 SHOW",
-        "url": "https://github.com/aymanbest/Arabico/raw/main/build/365.cs3",
-        "name": "365 SHOW"
-    },
+    
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://joynema.store&sz=%size%",
         "apiVersion": 1,

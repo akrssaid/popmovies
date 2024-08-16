@@ -3,6 +3,6 @@
     "description": "Default repository",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/builds/plugins.json"
+      "https://raw.githubusercontent.com/akrssaid/popmovies/main/plugins.json"
     ]
 }
